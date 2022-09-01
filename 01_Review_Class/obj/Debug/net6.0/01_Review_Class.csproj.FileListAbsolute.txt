@@ -1,0 +1,15 @@
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\bin\Debug\net6.0\01_Review_Class.exe
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\bin\Debug\net6.0\01_Review_Class.deps.json
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\bin\Debug\net6.0\01_Review_Class.runtimeconfig.json
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\bin\Debug\net6.0\01_Review_Class.dll
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\bin\Debug\net6.0\01_Review_Class.pdb
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.csproj.AssemblyReference.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.AssemblyInfoInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.AssemblyInfo.cs
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.csproj.CoreCompileInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.dll
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\refint\01_Review_Class.dll
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.pdb
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\01_Review_Class.genruntimeconfig.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\01_Review_Class\obj\Debug\net6.0\ref\01_Review_Class.dll

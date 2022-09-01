@@ -1,0 +1,15 @@
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\bin\Debug\net6.0\Diamond.exe
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\bin\Debug\net6.0\Diamond.deps.json
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\bin\Debug\net6.0\Diamond.runtimeconfig.json
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\bin\Debug\net6.0\Diamond.dll
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\bin\Debug\net6.0\Diamond.pdb
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.csproj.AssemblyReference.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfo.cs
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.dll
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\refint\Diamond.dll
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.pdb
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\Diamond.genruntimeconfig.cache
+C:\Users\FDemirAcil\source\GrandCircus\05_Week_Unit_Testing\Diamond\obj\Debug\net6.0\ref\Diamond.dll
